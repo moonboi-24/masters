@@ -1,0 +1,25 @@
+
+Entorno: mi portátil Windows con WSL
+
+
+=== Usuario y fecha ===
+miguel
+Fri Oct 9 18:27:58 CEST 2026
+
+
+=== Procesador ===
+Model name: Intel(R) Core(TM) i7-10610U CPU @ 1.80GHz
+
+
+=== Total moleculas ===
+La cantidad de moleculas es:  6
+
+
+=== Planetas Kepler ===
+La cantidad de planetas Kepler es:  60
+
+
+=== Avistamientos conejos ===
+2012-11-05,rabbit,22
+2012-11-06,rabbit,19
+2012-11-07,rabbit,16
