@@ -1,7 +1,4 @@
-This line was added remotely from GitHub
-
-This line is for testing git fetch
-
+This repo is for storing all my Data Science Master's homework
 
 
 
